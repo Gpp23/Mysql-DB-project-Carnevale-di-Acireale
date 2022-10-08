@@ -1,0 +1,1 @@
+DELETE FROM `partecipante` WHERE `FK_Persona` = '<CDF>';

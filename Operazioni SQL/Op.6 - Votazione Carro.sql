@@ -1,0 +1,1 @@
+INSERT INTO `votazione` (`FK_Account`, `FK_Carro`, `Commento`, `Voto`) VALUES ('<ID_Account>', 'Nome carro', '<Commento>', '<Voto>');

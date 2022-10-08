@@ -1,0 +1,1 @@
+SELECT `N_Persone` FROM `area` WHERE `ID` = <ID_Area>;

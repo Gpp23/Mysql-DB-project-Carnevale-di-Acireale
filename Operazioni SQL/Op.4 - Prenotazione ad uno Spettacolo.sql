@@ -1,0 +1,1 @@
+INSERT INTO `partecipante` (`FK_Persona`, `FK_Spettacolo`) VALUES ('<CDF>', '<Nome spettacolo>');

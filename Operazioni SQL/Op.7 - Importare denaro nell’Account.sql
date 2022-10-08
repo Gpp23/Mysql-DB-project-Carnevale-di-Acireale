@@ -1,0 +1,1 @@
+UPDATE `account` SET `Importo` = `Importo` + '<Importo>' WHERE `account`.`ID` =  <ID_Account>;

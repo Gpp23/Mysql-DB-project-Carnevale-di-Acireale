@@ -1,0 +1,1 @@
+INSERT INTO `persona` (`CDF`, `Cellulare`, `Nome`, `Cognome`, `Data_Nascita`, `FK_Area`, `FK_Account`) VALUES ('<CDF>', ‘<Cellulare>’, '<Nome>', '<Cognome>', '<Data>', '<ID_Area>', 'ID_Account');

@@ -1,0 +1,1 @@
+INSERT INTO `biglietto` (`Cod`, `Data_Acquisto`, `Data_Validità`, `FK_Tipo`, `FK_Persona`) VALUES ('<Cod>', current_timestamp(), '<Data_Validità>', '<FK_TIPO>', '<CDF_Persona>');
